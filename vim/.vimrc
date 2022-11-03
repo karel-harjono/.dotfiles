@@ -13,3 +13,5 @@ set smartindent
 set showmatch
 set incsearch
 set hlsearch
+
+set colorcolumn=80
