@@ -15,3 +15,9 @@ set incsearch
 set hlsearch
 
 set colorcolumn=80
+
+nnoremap <C-d> <C-d>zz
+nnoremap <C-u> <C-u>zz
+
+nnoremap n nzz
+nnoremap N Nzz
