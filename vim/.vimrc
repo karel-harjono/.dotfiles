@@ -14,7 +14,7 @@ set showmatch
 set incsearch
 set hlsearch
 
-set colorcolumn=80
+set colorcolumn=100
 
 nnoremap <C-d> <C-d>zz
 nnoremap <C-u> <C-u>zz
